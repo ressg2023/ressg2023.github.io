@@ -7,7 +7,31 @@
  <priority>0.9</priority>
 </url>
 <url>
+ <loc>https://huatprop.com/properties.html</loc>
+ <lastmod>2023-09-05</lastmod>
+ <changefreq>monthly</changefreq>
+ <priority>0.9</priority>
+</url>
+<url>
+ <loc>https://huatprop.com/tools.html</loc>
+ <lastmod>2023-09-05</lastmod>
+ <changefreq>monthly</changefreq>
+ <priority>0.9</priority>
+</url>
+<url>
  <loc>https://cn.huatprop.com</loc>
+ <lastmod>2023-09-05</lastmod>
+ <changefreq>monthly</changefreq>
+ <priority>0.2</priority>
+</url>
+<url>
+ <loc>https://cn.huatprop.com/properties.html</loc>
+ <lastmod>2023-09-05</lastmod>
+ <changefreq>monthly</changefreq>
+ <priority>0.2</priority>
+</url>
+<url>
+ <loc>https://cn.huatprop.com/tools.html</loc>
  <lastmod>2023-09-05</lastmod>
  <changefreq>monthly</changefreq>
  <priority>0.2</priority>
